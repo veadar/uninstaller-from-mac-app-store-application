@@ -8,10 +8,10 @@ Front-end for [uninstall command](http://veadardiary.blog29.fc2.com/blog-entry-5
 
 Drag & Drop want to uninstall app(s) to icon.
 
-Enter administrator password.
+Enter administrator password(password stored to keychain access).
 
 ##Screenshot
 
 ##Download
 
-Click Here → [Download]()
+Click Here → [Download](https://github.com/veadar/uninstaller-from-mac-app-store-application/releases)
